@@ -1,0 +1,4 @@
+.venv
+*.~undo-tree~
+*.py
+__pycache__
